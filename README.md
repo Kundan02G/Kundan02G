@@ -1,3 +1,30 @@
+## 👨‍💻 About Me:
+
+- 🎓 BCom Final Year Student | University of Delhi  
+- 📊 Aspiring Data Analyst  
+- 💡 Interested in Data Analysis, Business Insights & Visualization  
+- 📚 Currently learning: Excel, SQL, Power BI, Python  
+- 📈 Goal: To become a skilled Data Analyst and work on real-world data projects  
+
+---
+
+## 🛠 Skills:
+
+- 📊 Data Analysis  
+- 📈 Data Visualization  
+- 🧮 Excel & Power BI  
+- 🗄 SQL (MySQL)  
+- 🐍 Python (Basics)  
+
+---
+
+## 🚀 Projects:
+
+- 📌 Sales Data Analysis (Excel Dashboard)  
+- 📌 Student Data Analysis (SQL)  
+- 📌 Power BI Dashboard Project  
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.kundan.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kundan-gupta-653a26292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kundangupta8824@gmail.com) 
