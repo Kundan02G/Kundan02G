@@ -20,8 +20,7 @@
 
 ## 🚀 Projects:
 
-- 📌 Sales Data Analysis (Excel Dashboard)  
-- 📌 Student Data Analysis (SQL)  
+- 📌 Sales Data Analysis (Excel Dashboard)   
 - 📌 Power BI Dashboard Project  
 
 ---
